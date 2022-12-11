@@ -23,7 +23,7 @@
 .controls_container{
   display: flex;
   flex-wrap: wrap;
-  width: 30%;
+  width: 15%;
 }
 .task{
   font-size: 16px;
